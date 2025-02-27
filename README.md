@@ -1,3 +1,3 @@
 # BryanSimp.github.io
 
-https://bryansimp.github.io/main.html
+https://bryansimp.github.io/index.html
