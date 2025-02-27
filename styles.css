@@ -1,7 +1,7 @@
 body {
   font-family: Arial, sans-serif;
   text-align: center;
-  background-image: url('background.jpg'); /* Path to your image */
+  background-image: url('assets/background.jpg'); /* Path to your image */
   background-size: cover; /* Scale image to cover the entire screen */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Prevent repeating */
@@ -26,7 +26,7 @@ h1 {
   background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
-  background-image: url("background.jpg");
+  background-image: url('assets/background.jpg');
   background-size: 120%;
 }
 
